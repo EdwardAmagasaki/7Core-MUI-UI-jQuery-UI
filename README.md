@@ -1,1 +1,1 @@
-# 7Core-MUI-UI-jQuery-UI
+# 7Core-MUI-UI-Datatable
