@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\7Core-MUI-UI-jQuery-UI.props" />
+</Project>

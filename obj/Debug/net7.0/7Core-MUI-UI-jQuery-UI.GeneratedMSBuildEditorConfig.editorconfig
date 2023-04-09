@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _7Core_MUI_UI_jQuery_UI
+build_property.RootNamespace = _7Core_MUI_UI_jQuery_UI
+build_property.ProjectDir = C:\do0CodeS\7Core-MUI-UI-jQuery-UI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\do0CodeS\7Core-MUI-UI-jQuery-UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9iYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Home/Index copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleCBjb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Home/_DataTable1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRGF0YVRhYmxlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/Documentos/_jquery-ui.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvY3VtZW50b3NcX2pxdWVyeS11aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/Temas/jQuery-UI/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRlbWFzXGpRdWVyeS1VSVxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/Temas/SidePanel/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRlbWFzXFNpZGVQYW5lbFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-70ck5tauxt
