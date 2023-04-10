@@ -24,6 +24,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9iYXNpYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/_Datatable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9EYXRhdGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Dialog/_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhbG9nXF9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/do0CodeS/7Core-MUI-UI-jQuery-UI/Views/Home/Index copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleCBjb3B5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
